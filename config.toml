@@ -2,3 +2,5 @@ baseURL = 'http://example.org/'
 languageCode = 'en-uk'
 title = 'bad to the py code'
 theme = 'ananke'
+[minify]
+  disableCSS = true

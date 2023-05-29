@@ -5,18 +5,16 @@ draft: False
 ---
 
 <style>
+
 code {
-  white-space: pre-wrap;
-  overflow: hidden;
-  scrollbar-width: thin;
-  scrollbar-color: transparent transparent;
-
+    overflow: none;
+    max-height: none;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
 }
 
-body {
-  overflow-x: hidden; /* Hide horizontal scrollbar */
-}
 </style>
+
 
 
 
