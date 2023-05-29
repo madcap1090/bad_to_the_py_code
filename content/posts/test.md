@@ -22,7 +22,7 @@ plt.show()
 
 
     
-![png](test_files/test_0_0.png)
+![png](test/test_0_0.png)
     
 
 
