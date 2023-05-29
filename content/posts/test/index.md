@@ -43,4 +43,4 @@ plt.show()
 form https://harlecin.netlify.app/post/jupter-notebooks-hugo/
 https://pypi.org/project/hugo_jupyter/
 
-test
+tester
