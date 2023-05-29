@@ -5475,7 +5475,7 @@ img {
 pre, .pre {
   overflow-x: auto;
   overflow-y: hidden;
-  overflow: auto; }
+  overflow: scroll; }
 
 pre code {
   display: block;
