@@ -7,7 +7,7 @@ draft: False
 <style>
 code {
   white-space: pre-wrap;
-  overflow: auto;
+  overflow: hidden;
   scrollbar-width: thin;
   scrollbar-color: transparent transparent;
 }
