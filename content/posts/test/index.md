@@ -4,6 +4,17 @@ date: 2023-05-29T16:42:56+02:00
 draft: False
 ---
 
+<style>
+code {
+  white-space: pre-wrap;
+  overflow: auto;
+  scrollbar-width: thin;
+  scrollbar-color: transparent transparent;
+}
+</style>
+
+
+
 ```python
 # importing the required module
 import matplotlib.pyplot as plt
