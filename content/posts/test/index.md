@@ -4,18 +4,7 @@ date: 2023-05-29T16:42:56+02:00
 draft: False
 ---
 
-<style>
-
-code {
-    overflow: none;
-    max-height: none;
-    scrollbar-width: none;
-    -ms-overflow-style: none;
-}
-
-</style>
-
-
+<link rel="stylesheet" type="text/css" href="./css/custom.css">
 
 
 ```python
