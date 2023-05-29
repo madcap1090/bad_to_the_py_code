@@ -10,6 +10,11 @@ code {
   overflow: hidden;
   scrollbar-width: thin;
   scrollbar-color: transparent transparent;
+
+}
+
+body {
+  overflow-x: hidden; /* Hide horizontal scrollbar */
 }
 </style>
 
